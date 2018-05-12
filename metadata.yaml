@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8753'
     url: http://www.gutenberg.org/2009/agents/8753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19564#The-Pirates-Who-s-WhoGiving-Particulars-Of-The-Lives-and-Deaths-Of-The-Pirates-And-Buccaneers
 gutenberg_bookshelf:
 - Pirates, Buccaneers, Corsairs, etc.
 - Crime Nonfiction
